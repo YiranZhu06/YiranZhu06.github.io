@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student at North China Electric Power University (Baoding), China.
+I am an undergraduate student majoring in Intelligent Science and Technology at North China Electric Power University (Baoding), expected to graduate in 2027. My research interests lie in vision-language models, multimodal learning, and AI for science.
 
-My homepage is currently under construction. More information will be updated soon.
+From October 2024 to May 2025, I worked as a research intern at the AAAI Lab, University of Chinese Academy of Sciences (UCAS), under the supervision of [Prof. Honggang Qi](https://people.ucas.edu.cn/~hgqi). Since June 2025, I have been a visiting student at AIMS Lab, The Hong Kong University of Science and Technology (Guangzhou), advised by [Assistant Professor Jun Xia](https://junxia97.github.io/).
+
+In addition, I maintain an active research collaboration with [Associate Professor Hongtao Wang](https://cs.ncepu.edu.cn/szzk/yjsds/zsjsyrgznaqyjz/66f6bfb94b4d4a448388772bf045f361.htm) at the Logic Lab, North China Electric Power University (Baoding).
 
 
 # 🔥 News
@@ -77,9 +79,17 @@ Jie Qin, Wei Yang, Yan Su, **Yiran Zhu**, Weizhen Li, Yunyue Pan, Chengchang Pan
 </div>
 
 
-# 🎖 Honors and Awards
-- To be updated.
+# 💼 Research Experience
+- *2025.06 - Present*, Visiting Student, AIMS Lab, The Hong Kong University of Science and Technology (Guangzhou), advised by [Assistant Professor Jun Xia](https://junxia97.github.io/).
+- *2024.10 - 2025.05*, Research Intern, AAAI Lab, University of Chinese Academy of Sciences (UCAS), advised by [Prof. Honggang Qi](https://people.ucas.edu.cn/~hgqi).
+- *Ongoing*, Research Collaboration, Logic Lab, North China Electric Power University (Baoding), with [Associate Professor Hongtao Wang](https://cs.ncepu.edu.cn/szzk/yjsds/zsjsyrgznaqyjz/66f6bfb94b4d4a448388772bf045f361.htm).
 
+# 📖 Education
+- *2023.09 - 2027.06 (expected)*, B.Eng. in Intelligent Science and Technology, North China Electric Power University (Baoding), China.
 
-# 📖 Educations
-- *2023.09 - 2027.06 (expected)*, B.Eng. student, North China Electric Power University (Baoding), China.
+# 🤝 Selected Mentors and Collaborators
+- [Assistant Professor Jun Xia](https://junxia97.github.io/), The Hong Kong University of Science and Technology (Guangzhou).
+- [Prof. Honggang Qi](https://people.ucas.edu.cn/~hgqi), University of Chinese Academy of Sciences (UCAS).
+- [Associate Professor Hongtao Wang](https://cs.ncepu.edu.cn/szzk/yjsds/zsjsyrgznaqyjz/66f6bfb94b4d4a448388772bf045f361.htm), North China Electric Power University (Baoding).
+- [Wei Yang](https://miemie0922.github.io/weiyang.github.io/), frequent collaborator on multiple research projects.
+- [Dr. Huichi Zhou](https://scholar.google.com/citations?user=1IJyxpUAAAAJ&hl=en), who provided important early guidance in my research journey.
