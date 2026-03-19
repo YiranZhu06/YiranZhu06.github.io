@@ -28,7 +28,7 @@ My homepage is currently under construction. More information will be updated so
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='/images/DuoTeach.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='/images/DuoTeach.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DuoTeach: Dual Role Self-Teaching for Coarse-to-Fine Decision Coordination in Vision–Language Models](https://arxiv.org/abs/2511.18415)
@@ -40,7 +40,7 @@ Wei Yang<sup>*</sup>, **Yiran Zhu**<sup>*</sup>, Zilin Li, Xunjia Zhang, Hongtao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='/images/Refold.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='/images/Refold.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Refold: Refining Protein Inverse Folding with Efficient Structural Matching and Fusion](https://arxiv.org/abs/2603.14350)
