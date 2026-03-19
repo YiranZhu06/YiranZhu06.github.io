@@ -28,6 +28,18 @@ My homepage is currently under construction. More information will be updated so
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='/images/DuoTeach.png' alt="paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DuoTeach: Dual Role Self-Teaching for Coarse-to-Fine Decision Coordination in Vision–Language Models](https://arxiv.org/abs/2511.18415)
+
+Wei Yang<sup>*</sup>, **Yiran Zhu**<sup>*</sup>, Zilin Li, Xunjia Zhang, Hongtao Wang
+
+[**Paper**](https://arxiv.org/abs/2511.18415)
+- arXiv preprint. <sup>*</sup> Equal contribution.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='/images/Refold.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -45,10 +57,10 @@ My homepage is currently under construction. More information will be updated so
 
 [A Dynamic Prognostic Prediction Method for Colorectal Cancer Liver Metastasis](https://arxiv.org/abs/2505.03123)
 
-Wei Yang, **Yiran Zhu**, Yan Su, Zesheng Li, Chengchang Pan, Honggang Qi
+Wei Yang<sup>*</sup>, **Yiran Zhu**<sup>*</sup>, Yan Su, Zesheng Li, Chengchang Pan, Honggang Qi
 
 [**Paper**](https://arxiv.org/abs/2505.03123)
-- ICME 2026. Co-first author (second in author list).
+- ICME 2026. <sup>*</sup> Equal contribution.
 </div>
 </div>
 
