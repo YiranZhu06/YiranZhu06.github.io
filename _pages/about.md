@@ -33,7 +33,7 @@ My homepage is currently under construction. More information will be updated so
 
 [DuoTeach: Dual Role Self-Teaching for Coarse-to-Fine Decision Coordination in Vision–Language Models](https://arxiv.org/abs/2511.18415)
 
-Wei Yang<sup>*</sup>, **Yiran Zhu**<sup>*</sup>, Zilin Li, Xunjia Zhang, Hongtao Wang
+Wei Yang<sup>*</sup>, **Yiran Zhu**<sup>*</sup>, Zilin Li, Xunjia Zhang, Jun Xia, Hongtao Wang
 
 [**Paper**](https://arxiv.org/abs/2511.18415)
 - arXiv preprint. <sup>*</sup> Equal contribution.
