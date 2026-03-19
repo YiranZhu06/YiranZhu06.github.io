@@ -52,7 +52,7 @@ Wei Yang, **Yiran Zhu**, Yan Su, Zesheng Li, Chengchang Pan, Honggang Qi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='/images/papers/ACMMM25.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='/images/ACMMM25.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HER2 Expression Prediction with Flexible Multi-Modal Inputs via Dynamic Bidirectional Reconstruction](https://dl.acm.org/doi/10.1145/3746027.3755619)
