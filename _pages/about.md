@@ -24,7 +24,7 @@ My research interests include:
 - Efficient Inference and Knowledge Distillation
 - AI for Interdisciplinary Applications
 
-I am seeking **2027 Fall Master's and Ph.D. opportunities** and am also open to potential research collaborations.
+‼️I am seeking **2027 Fall Master's and Ph.D. opportunities** and am also open to potential research collaborations.
 
 
 # 🔥 News
