@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student majoring in Intelligent Science and Technology at North China Electric Power University (Baoding), expected to graduate in 2027. Currently, I am a visiting student at the AIMS Lab, The Hong Kong University of Science and Technology (Guangzhou), under the supervision of [Prof. Jun Xia](https://junxia97.github.io/).
+I am an undergraduate student majoring in Intelligent Science and Technology at North China Electric Power University (Baoding), expected to graduate in 2027. Currently, I am a **visiting student** at the AIMS Lab, The Hong Kong University of Science and Technology (Guangzhou), under the supervision of [Prof. Jun Xia](https://junxia97.github.io/).
 
 My research interests include:
 - Vision-Language Models (VLMs) and Multimodal Learning
 - Efficient Inference and Knowledge Distillation
 - AI for Interdisciplinary Applications
 
-I am seeking 2027 Fall Master's and Ph.D. opportunities and am also open to potential research collaborations.
+I am seeking **2027 Fall Master's and Ph.D. opportunities** and am also open to potential research collaborations.
 
 
 # 🔥 News
