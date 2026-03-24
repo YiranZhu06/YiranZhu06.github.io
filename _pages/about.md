@@ -28,10 +28,10 @@ I am seeking **2027 Fall Master's and Ph.D. opportunities** and am also open to 
 
 
 # 🔥 News
-- **Mar 2026**: Our work on dynamic prognostic prediction was accepted to **ICME 2026**.
-- **Mar 2026**: Released **DuoTeach: Dual Role Self-Teaching for Coarse-to-Fine Decision Coordination in Vision–Language Models** on arXiv.
-- **Mar 2026**: Released **Refold: Refining Protein Inverse Folding with Efficient Structural Matching and Fusion** on arXiv.
-- **Jun 2025**: Joined the **AIMS Lab, The Hong Kong University of Science and Technology (Guangzhou)** as a visiting student, advised by [Prof. Jun Xia](https://junxia97.github.io/).
+- Mar 2026: Our work on dynamic prognostic prediction was accepted to **ICME 2026**.
+- Mar 2026: Released *DuoTeach: Dual Role Self-Teaching for Coarse-to-Fine Decision Coordination in Vision–Language Models* on arXiv.
+- Mar 2026: Released *Refold: Refining Protein Inverse Folding with Efficient Structural Matching and Fusion* on arXiv.
+- Jun 2025: Joined the **AIMS Lab, The Hong Kong University of Science and Technology (Guangzhou)** as a visiting student, advised by [Prof. Jun Xia](https://junxia97.github.io/).
 
 
 # 📝 Publications
