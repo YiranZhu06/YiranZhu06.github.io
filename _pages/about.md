@@ -3,6 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+homepage: true
 redirect_from:
   - /about/
   - /about.html
@@ -10,7 +11,9 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-I am an undergraduate student majoring in Intelligent Science and Technology at North China Electric Power University (Baoding), expected to graduate in 2027. I am currently a long-term Research Intern at the University of Science and Technology of China (USTC), and an incoming Research Intern at [LivSyn Robotics](https://www.livsynrobotics.com/en).
+# About
+
+I am an undergraduate student majoring in Intelligent Science and Technology at North China Electric Power University (Baoding), expected to graduate in 2027. I am currently a long-term Research Intern at the University of Science and Technology of China (USTC), and a Research Intern at [LivSyn Robotics](https://www.livsynrobotics.com/en).
 
 I am interested in intelligent systems that learn through interaction, expand their capabilities, and help advance intelligence itself.
 
@@ -21,9 +24,9 @@ My current research interests include:
 
 <span class="anchor" id="news"></span>
 
-# 🔥 News
+# News
 
-- 2026: Incoming Research Intern at [LivSyn Robotics](https://www.livsynrobotics.com/en).
+- Sep 2026: Joined [LivSyn Robotics](https://www.livsynrobotics.com/en) as a Research Intern.
 - 2026: Joined the University of Science and Technology of China as a Research Intern.
 - May 2026: *Refold: Refining Protein Inverse Folding with Efficient Structural Matching and Fusion* was accepted to **KDD 2026**.
 - Mar 2026: *A Dynamic Prognostic Prediction Method for Colorectal Cancer Liver Metastasis* was accepted to **ICME 2026**.
@@ -32,7 +35,7 @@ My current research interests include:
 
 <span class="anchor" id="selected-research"></span>
 
-# 📝 Selected Research
+# Selected Research
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='/images/DuoTeach.png' alt="DuoTeach paper figure" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -80,7 +83,7 @@ Jie Qin, Wei Yang, Yan Su, **Yiran Zhu**, Weizhen Li, Yunyue Pan, Chengchang Pan
 
 <span class="anchor" id="experience"></span>
 
-# 💼 Experience
+# Experience
 
 <section class="experience-timeline" aria-labelledby="research-experience-heading">
   <h2 id="research-experience-heading" class="timeline-heading">Research Experience</h2>
@@ -89,7 +92,7 @@ Jie Qin, Wei Yang, Yan Su, **Yiran Zhu**, Weizhen Li, Yunyue Pan, Chengchang Pan
       <div class="timeline-logo timeline-logo--wordmark" aria-hidden="true"><img src="/images/affiliations/normalized/livsyn.png" alt=""></div>
       <span class="timeline-marker" aria-hidden="true"></span>
       <div class="timeline-entry__body">
-        <div class="timeline-entry__header"><h3><a href="https://www.livsynrobotics.com/en">LivSyn Robotics</a></h3><time>Incoming</time></div>
+        <div class="timeline-entry__header"><h3><a href="https://www.livsynrobotics.com/en">LivSyn Robotics</a></h3><time>Sep 2026 — Present</time></div>
         <p>Research Intern</p>
       </div>
     </li>
@@ -136,9 +139,11 @@ Jie Qin, Wei Yang, Yan Su, **Yiran Zhu**, Weizhen Li, Yunyue Pan, Chengchang Pan
 
 <span class="anchor" id="acknowledgements"></span>
 
-# 🤝 Acknowledgements
+# Acknowledgements
 
 I have been fortunate to learn from, work with, and grow alongside many wonderful people throughout my research journey.
+
+<p class="acknowledgement-index__note">Listed alphabetically by first name.</p>
 
 <section class="acknowledgement-index" data-acknowledgements aria-label="Acknowledgement index">
   <div class="acknowledgement-index__people" role="tablist" aria-label="People">
@@ -146,8 +151,6 @@ I have been fortunate to learn from, work with, and grow alongside many wonderfu
     <button id="ack-tab-{{ person.id }}" class="acknowledgement-index__person" type="button" role="tab" aria-controls="ack-panel-{{ person.id }}" aria-selected="{% if forloop.first %}true{% else %}false{% endif %}" tabindex="{% if forloop.first %}0{% else %}-1{% endif %}" data-ack-tab data-acknowledgement="{{ person.id }}">{{ person.name }}</button>
     {% endfor %}
   </div>
-  <p class="acknowledgement-index__note">Listed alphabetically by first name.</p>
-
   <div class="acknowledgement-index__detail">
     {% for person in site.data.acknowledgements %}
     <section id="ack-panel-{{ person.id }}" class="acknowledgement-index__panel" role="tabpanel" aria-labelledby="ack-tab-{{ person.id }}"{% unless forloop.first %} hidden{% endunless %} data-ack-panel data-acknowledgement="{{ person.id }}">
@@ -172,7 +175,7 @@ I have been fortunate to learn from, work with, and grow alongside many wonderfu
 
 <span class="anchor" id="contact"></span>
 
-# 📧 Contact
+# Contact
 
 If you'd like to discuss research or collaboration, feel free to get in touch.
 
