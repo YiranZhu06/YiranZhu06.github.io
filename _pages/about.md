@@ -10,7 +10,7 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-I am an undergraduate student majoring in Intelligent Science and Technology at North China Electric Power University (Baoding), expected to graduate in 2027. I am currently a long-term Research Intern at the University of Science and Technology of China (USTC), and an incoming Research Intern at [LivSyn Robotics](https://www.livsynrobotics.com/en).
+I am an undergraduate student majoring in Intelligent Science and Technology at North China Electric Power University (Baoding), expected to graduate in 2027. I am currently a long-term Research Intern at the University of Science and Technology of China (USTC), and a Research Intern at [LivSyn Robotics](https://www.livsynrobotics.com/en).
 
 I am interested in intelligent systems that learn through interaction, expand their capabilities, and help advance intelligence itself.
 
@@ -23,8 +23,8 @@ My current research interests include:
 
 # 🔥 News
 
-- 2026: Incoming Research Intern at [LivSyn Robotics](https://www.livsynrobotics.com/en).
-- 2026: Joined the University of Science and Technology of China as a Research Intern.
+- Sep 2026: Joined [LivSyn Robotics](https://www.livsynrobotics.com/en) as a Research Intern.
+- May 2026: Joined the University of Science and Technology of China as a Research Intern.
 - May 2026: *Refold: Refining Protein Inverse Folding with Efficient Structural Matching and Fusion* was accepted to **KDD 2026**.
 - Mar 2026: *A Dynamic Prognostic Prediction Method for Colorectal Cancer Liver Metastasis* was accepted to **ICME 2026**.
 - Jul 2025: *HER2 Expression Prediction with Flexible Multi-Modal Inputs via Dynamic Bidirectional Reconstruction* was accepted to **ACM MM 2025**.
@@ -89,7 +89,7 @@ Jie Qin, Wei Yang, Yan Su, **Yiran Zhu**, Weizhen Li, Yunyue Pan, Chengchang Pan
       <div class="timeline-logo timeline-logo--wordmark" aria-hidden="true"><img src="/images/affiliations/normalized/livsyn.png" alt=""></div>
       <span class="timeline-marker" aria-hidden="true"></span>
       <div class="timeline-entry__body">
-        <div class="timeline-entry__header"><h3><a href="https://www.livsynrobotics.com/en">LivSyn Robotics</a></h3><time>Incoming</time></div>
+        <div class="timeline-entry__header"><h3>LivSyn Robotics</h3><time>2026 — Present</time></div>
         <p>Research Intern</p>
       </div>
     </li>
